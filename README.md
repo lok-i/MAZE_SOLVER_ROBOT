@@ -18,5 +18,5 @@ Detailed PS:[Problem_Statement](https://github.com/lok-i/MAZE-XPLORER_TECHNEX201
 * Proximity sensor (to detect over head nodes)
 *  QTR 8RC ,sensor array for line detection.
 
-Video demo:
+## Video demo:
   
