@@ -12,11 +12,11 @@ Detailed PS:[Problem_Statement](https://github.com/lok-i/MAZE-XPLORER_TECHNEX201
 
 ## Hardware Used:
 
-• Self designed chasis with PolyCarbonate Sheet for light weight yet firm mechanical integrity of the structure
-• Arduino Mega
-• BO motors
-• Proximity sensor (to detect over head nodes)
-•  QTR 8RC ,sensor array for line detection.
+* Self designed chasis with PolyCarbonate Sheet for light weight yet firm mechanical integrity of the structure
+* Arduino Mega
+* BO motors
+* Proximity sensor (to detect over head nodes)
+*  QTR 8RC ,sensor array for line detection.
 
 Video demo:
   
