@@ -3,7 +3,7 @@
 
 ## Problem Statement:
 To make a line following robot with the ability to solve a given maze and also detec ovr-head nodes placed along the path.
-Detailed PS:(https://github.com/lok-i/MAZE-XPLORER_TECHNEX2019/blob/master/Robonex_Maze-Xplorer.pdf)
+Detailed PS:[!Problem_Statement](https://github.com/lok-i/MAZE-XPLORER_TECHNEX2019/blob/master/Robonex_Maze-Xplorer.pdf)
 
 
 ## Our solution:
