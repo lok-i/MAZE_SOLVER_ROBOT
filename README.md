@@ -19,4 +19,4 @@ Detailed PS:[Problem_Statement](https://github.com/lok-i/MAZE-XPLORER_TECHNEX201
 *  QTR 8RC ,sensor array for line detection.
 
 ## Video demo:
-  
+  Coming soon
