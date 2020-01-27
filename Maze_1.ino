@@ -42,14 +42,14 @@ char PID()
   analogWrite(lt, leftMotorSpeed);
   printAll();
   if(sensorValues[0]>blk && sensorValues[1]>blk && sensorValues[2]>blk && sensorValues[7]>blk && sensorValues[6]>blk && sensorValues[5]>blk)
-  { digitalWrite(A8, HIGH);digitalWrite(A10, HIGH);return 'B';}
+  { return 'B';}
   else if(sensorValues[0]>blk && sensorValues[1]>blk && sensorValues[2]>blk && sensorValues[3]>blk)
-  { digitalWrite(A8, HIGH);return 'L';}
+  {return 'L';}
   else if(sensorValues[7]>blk && sensorValues[6]>blk && sensorValues[5]>blk && sensorValues[4]>blk)
-  {digitalWrite(A10, HIGH);return 'R';}
+  {return 'R';}
   else if(sensorValues[0]<wht && sensorValues[1]<wht && sensorValues[2]<wht && sensorValues[3]<wht && sensorValues[4]<wht && sensorValues[5]<wht && sensorValues[6]<wht && sensorValues[7]<wht)
-  {digitalWrite(A8, LOW);digitalWrite(A10, LOW);return 'E';} // E signifies End of line
-  else {digitalWrite(A8, LOW);digitalWrite(A10, LOW);return 'N';}//N for none
+  {return 'E';} // E signifies End of line
+  else {return 'N';}//N for none
 }
 
 void printAll()
